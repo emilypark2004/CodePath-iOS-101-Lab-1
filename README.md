@@ -3,3 +3,7 @@
 ### Overview
 
 This is my completed project for the iOS 101 Lab 1 Mario Kart assignment.
+
+### Video Walkthrough
+
+https://imgur.com/a/TpBdwOe
